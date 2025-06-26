@@ -4,9 +4,9 @@
 
 ### Michał Refermat 203680
 ### Kosma Chorążewicz 203320
-
-
-
+  
+  
+  
 ## Zadanie projektowe 4
 #### Wykonane funkcjonalności:
 - 4.1  
